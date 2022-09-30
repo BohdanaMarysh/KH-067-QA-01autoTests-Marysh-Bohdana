@@ -1,0 +1,1 @@
+# KH-067-QA-01autoTests-Marysh-Bohdana
